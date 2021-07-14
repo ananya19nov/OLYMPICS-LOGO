@@ -1,0 +1,24 @@
+.body_backgorund {
+    background-image: url("pexels-photo-912110.jpeg");
+    background-position: center;
+    background-size: cover;
+  }
+  h1
+  {
+      color: rgb(44, 42, 42); 
+      font-size: 40px;
+  }
+  
+  #myCanvas
+  {
+  
+      background-color: rgb(255, 255, 255); 
+      border-style: double;
+      border-width: 10;
+      border-color: rgb(8, 52, 110);
+  }
+  span
+  {
+      font-size: 20px;
+  }
+  
